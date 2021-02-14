@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo cp -r site /var/www/html/
+echo 'copiando site'
+
